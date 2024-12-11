@@ -35,31 +35,31 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100005193854879",
-    "61567325751299"
+    "61569741011819",
+    "100089333225860"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "100005193854879"
+      ""
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "𝐁𝐀𝐘𝐉𝐈𝐃-৬T৯",
+  "nickNameBot": "TR1CK S4H3D -:) 🖤",
   "prefix": "?",
   "BaYjidnapi": "",
   "api": "",
   "api2": "",
   "api3": "",
-  "authorName": "BaYjid🤡",
-  "facebook2": "https://www.facebook.com/BAYJID.404",
-  "facebook": "https://www.facebook.com/BAYJID.404",
-  "email": "mohammadbayjid204@yahoo.com",
-  "replit": "https://replit.com/@biju",
-  "github": "https://github.com/BAYJID-404-BOYZ",
-  "insta": "no",
-  "age": "17+",
-  "TG": "",
+  "authorName": "SaHeD🤡",
+  "facebook2": "https://www.facebook.com/Sumaiya.ily.bbe",
+  "facebook": "https://www.facebook.com/Sumaiya.ily.bbe",
+  "email": "mentalsahed@gmail.com",
+  "replit": "https://replit.com/@HUMANSAHED",
+  "github": "https://github.com/Sahed2006",
+  "insta": "minnie.sahed",
+  "age": "18+",
+  "TG": "t.me/Sahed2006",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
