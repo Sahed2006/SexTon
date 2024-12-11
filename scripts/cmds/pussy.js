@@ -5,7 +5,7 @@ module.exports = {
 		version: "1.0",
 		author: "Doru fix by kivv",
 		countDown: 5,
-		role: 2,
+		role: 0,
 		shortDescription: "send you pic of pussy",
 		longDescription: "sends u pic of girls pussy",
 		category: "18+",
@@ -26,7 +26,7 @@ module.exports = {
 	]
 let img = link[Math.floor(Math.random()*link.length)]
 message.send({
-	body: '「 Pussy💦🥵 」',attachment: await global.utils.getStreamFromURL(img)
+	body: '「 Russian💦🥵 」',attachment: await global.utils.getStreamFromURL(img)
 })
 }
 		 }
