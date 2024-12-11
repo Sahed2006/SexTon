@@ -5,7 +5,7 @@ module.exports = {
 		version: "1.0",
 		author: "Doru fix by kivv",
 		countDown: 5,
-		role: 2,
+		role: 0,
 		shortDescription: "send you pic of pussy",
 		longDescription: "sends u pic of girls pussy",
 		category: "18+",
