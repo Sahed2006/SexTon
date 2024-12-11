@@ -6,11 +6,11 @@ module.exports = {
 	threadStates: {},
 
 	config: {
-		name: 'autofb',
+		name: 'dwn,
 		version: '1.0',
 		author: 'Kshitiz',
 		countDown: 5,
-		role: 0,
+		role: 2,
 		shortDescription: 'auto video downloader',
 		longDescription: '',
 		category: 'media',
