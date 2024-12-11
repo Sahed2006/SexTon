@@ -8,7 +8,7 @@ module.exports = {
     version: '1.0',
     author: 'munem.',
     countDown: 5,
-    role: 0,
+    role: 2,
     shortDescription: 'Create Facebook banner',
     longDescription: '',
     category: 'image',
