@@ -13,7 +13,7 @@ module.exports = {
     aliases: [ "music", "play"],
     author: "dipto",
     countDown: 5,
-    role: 0,
+    role: 2,
     description: {
       en: "Download audio from YouTube"
     },
